@@ -34,9 +34,6 @@ My main software project is **DESK**, an open-source cross-platform AI desktop a
 ---
 
 ## 🚀 Featured Projects
-
-## 🚀 Featured Projects
-
 ### 💻 Software
 
 | Project | Description |
