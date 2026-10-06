@@ -35,11 +35,28 @@ My main software project is **DESK**, an open-source cross-platform AI desktop a
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
+### 💻 Software
+
 | Project | Description |
 |---|---|
 | **[DESK](https://github.com/Saksham-garg2008/DESK)** | A lightweight, cross-platform AI desktop assistant built with Python and PySide6. |
-| **[WACC Analysis Practice](https://github.com/Saksham-garg2008/WACC-Analysis-Practice)** | A collection of practical WACC and financial analysis work. |
+| **[DESK-Companion](https://github.com/Saksham-garg2008/DESK-Companion)** | An Android companion application built to complement the DESK desktop assistant. |
+
+### 💰 Finance & Analysis
+
+| Project | Description |
+|---|---|
+| **[WACC Analysis Practice](https://github.com/Saksham-garg2008/WACC-Analysis-Practice)** | Practical WACC calculations and financial analysis using real companies. |
 | **[Jev AI Cost Forecast](https://github.com/Saksham-garg2008/Jev_AI_Cost_Forecast)** | An Excel-based AI usage cost forecasting model using assumptions, scenarios, and What-If Analysis. |
+
+### 🧪 Other Projects
+
+| Project | Description |
+|---|---|
+| **[Archive-Prototype](https://github.com/Saksham-garg2008/Archive-Prototype)** | A web-based prototype exploring interface design and digital archiving. |
+| **[NPI — National Performance Indicator](https://github.com/Saksham-garg2008/NPI---National-Performance-Indicator)** | A Python-based project focused on developing and working with a National Performance Indicator. |
 
 ---
 
